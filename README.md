@@ -1,23 +1,34 @@
-🚀 Excel Dashboard Project | Blinkit Sales Analysis 📊
+# Blinkit Sales Analysis – Excel Dashboard Project
 
-I have created an end-to-end Excel dashboard project using Blinkit sales data.
+## 📌 Project Overview
+This project is an end-to-end Excel dashboard created using Blinkit sales data.
+The goal is to analyze sales, orders, customer behavior, and store performance.
 
-🔹 Tools Used:
-• Microsoft Excel
-• Power Pivot
-• Data Modeling
-• Pivot Tables & Charts
+## 🛠 Tools Used
+- Microsoft Excel
+- Power Pivot
+- Data Modeling
+- Pivot Tables & Charts
 
-🔹 Key Insights:
-• Total Sales: ₹75M+
-• Orders: 110K
-• Category, City & Store-Type Analysis
-• Customer behavior by Gender & Age Group
+## 📊 Key KPIs
+- Total Sales: ₹75.04M
+- Total Orders: 110K
+- Average Sales: ₹682
+- Average Discount: ₹75.83
 
-📂 GitHub Repository:
-👉 https://github.com/USERNAME/Blinkit-Excel-Dashboard-Analysis
+## 📈 Dashboard Insights
+- Sales trend by quarter
+- Category-wise sales performance
+- City-wise and store-type analysis
+- Gender & age-group customer behavior
+- Payment method distribution
 
-Feedback & suggestions are welcome 😊
+## 📂 Files Included
+- Excel Dashboard (.xlsx)
+- PowerPoint Presentation (.pptx)
+- Final PDF Report
+- Dataset & Screenshots
 
-#ExcelDashboard #DataAnalytics #ExcelProject
-#PowerPivot #DataAnalyst #PortfolioProject
+## 👤 Created By
+**Ashish Jangir**  
+Aspiring Data Analyst
